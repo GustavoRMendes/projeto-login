@@ -57,3 +57,7 @@ img {
   width: 250px;
   height: 280px;
 }
+
+#error{
+  text-align: center;
+}
