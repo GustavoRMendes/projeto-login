@@ -32,6 +32,7 @@ input {
   color: white;
   margin: 10px;
   padding: 5px;
+  outline: none;
 }
 legend{
     text-align: center;
