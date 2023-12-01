@@ -1,0 +1,24 @@
+@media(min-width:320px) and (max-width:450px){
+    img {
+        display: none;
+    }
+    #form{
+        width: 270px;
+    }
+    #container{
+        gap: 0;
+    }
+}
+
+@media(min-width:320px) and (max-width:450px), (orientation:landscape){
+    img {
+        display: none;
+    }
+    #form{
+        width: 300px;
+    }
+    #container{
+        gap: 0;
+        height: 100vh;
+    }
+}
